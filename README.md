@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 ### I'm Oğuz DEMİR
-[![GitHub followers]
+
 
 - 🔭 I’m currently working on to be a web developer
 - 🌱 I’m currently learning MERN stack & Web Development Cycle
