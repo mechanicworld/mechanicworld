@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### I'm Oğuz DEMİR
 
 
-- 🔭 I’m currently working on to be a web developer
+- 🔭 I’m currently working on to become a web developer
 - 🌱 I’m currently learning MEVN-MERN  stack & Web Development Cycle
 
 ---
