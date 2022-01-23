@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 ### I'm Oğuz DEMİR
 
 
-- 🔭 I’m currently working on to become a full-stack developer
+- 🔭 I’m currently working on to become a Full-Stack developer
 - 🌱 I’m currently learning MEVN-MERN stack & Web Development Cycles
-- 
+- :fire: I'm currently working on a project with  ASP.NET Core & EFCore & React & MSSQL
+
 
 ---
 
