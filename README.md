@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 ### I'm Oğuz DEMİR
 
 
-- 🔭 I’m currently working on to become a web developer
-- 🌱 I’m currently learning MEVN-MERN  stack & Web Development Cycle
+- 🔭 I’m currently working on to become a full-stack developer
+- 🌱 I’m currently learning MEVN-MERN stack & Web Development Cycles
+- 
 
 ---
 
@@ -32,4 +33,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-mongoDB-brightgreen"></img>
 <img src="https://img.shields.io/badge/-python-blue"></img>
 <img src="https://img.shields.io/badge/-react-7ddfff"></img>
+<img src="https://img.shields.io/badge/-.NET%20-7ddfff"></img>
 
