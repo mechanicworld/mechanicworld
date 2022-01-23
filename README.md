@@ -27,11 +27,13 @@ Here are some ideas to get you started:
 
 ### 🛠  Tech Stack
 
+<img src="https://img.shields.io/badge/-.Net%20-%234D3CA6"></img>
+<img src="https://img.shields.io/badge/-Javascript-f0da50"></img>
+<img src="https://img.shields.io/badge/-React-7ddfff"></img>
 <img src="https://img.shields.io/badge/-Vue-40b682"></img>
-<img src="https://img.shields.io/badge/-node.js-green"></img>
-<img src="https://img.shields.io/badge/-javascript-f0da50"></img>
-<img src="https://img.shields.io/badge/-mongoDB-brightgreen"></img>
-<img src="https://img.shields.io/badge/-python-blue"></img>
-<img src="https://img.shields.io/badge/-react-7ddfff"></img>
-<img src="https://img.shields.io/badge/-.NET%20-7ddfff"></img>
+<img src="https://img.shields.io/badge/-Node.js-green"></img>
+<img src="https://img.shields.io/badge/-MongoDB-brightgreen"></img>
+<img src="https://img.shields.io/badge/-Python-blue"></img>
+
+
 
