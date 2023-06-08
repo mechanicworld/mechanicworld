@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 - :fire:  🔭 I’m currently working on to become a Full-Stack developer with MERN stack
 
--
-
 
 ---
 
