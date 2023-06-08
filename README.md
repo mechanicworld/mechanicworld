@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 ### I'm Oğuz DEMİR
 
 
-- :fire: Working on a project with  ASP.NET Core & EFCore & React & MSSQL as a Software Developer
-- 🔭 I’m currently working on to become a Full-Stack developer with MERN stack
+- :fire:  🔭 I’m currently working on to become a Full-Stack developer with MERN stack
 
+-
 
 
 ---
