@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 ### Hi there 👋
 ### I'm Oğuz DEMİR
 
+<a href="https://app.daily.dev/mechanicworld"><img src="https://api.daily.dev/devcards/492e7f5190524ee7b1bd07290b0c0040.png?r=38t" width="400" alt="Oguz Demir's Dev Card"/></a>
 
-- :fire:  🔭 I’m currently working on to become a Full-Stack developer with MERN stack
+
+- :fire:  🔭 I’m currently working on to become a Full-Stack developer with JS
 
 
 ---
